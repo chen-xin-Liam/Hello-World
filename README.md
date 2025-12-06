@@ -1,2 +1,2 @@
-# Hello-World
-用各种语言输出Hello World
+# Hello World
+Hello World
